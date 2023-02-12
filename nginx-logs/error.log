@@ -5,3 +5,17 @@
 2023/02/11 16:59:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
 2023/02/11 16:59:59 [notice] 1#1: start worker processes
 2023/02/11 16:59:59 [notice] 1#1: start worker process 19
+2023/02/12 00:50:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/02/12 00:50:20 [notice] 19#19: gracefully shutting down
+2023/02/12 00:50:20 [notice] 19#19: exiting
+2023/02/12 00:50:20 [notice] 19#19: exit
+2023/02/12 00:50:20 [notice] 1#1: signal 17 (SIGCHLD) received from 19
+2023/02/12 00:50:20 [notice] 1#1: worker process 19 exited with code 0
+2023/02/12 00:50:20 [notice] 1#1: exit
+2023/02/12 00:51:08 [notice] 1#1: using the "epoll" event method
+2023/02/12 00:51:08 [notice] 1#1: nginx/1.23.3
+2023/02/12 00:51:08 [notice] 1#1: built by gcc 12.2.1 20220924 (Alpine 12.2.1_git20220924-r4) 
+2023/02/12 00:51:08 [notice] 1#1: OS: Linux 5.15.0-1028-aws
+2023/02/12 00:51:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/02/12 00:51:08 [notice] 1#1: start worker processes
+2023/02/12 00:51:08 [notice] 1#1: start worker process 19
